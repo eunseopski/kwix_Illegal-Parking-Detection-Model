@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c61c082-5660-4bc7-986c-bc5c0215872f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]00042C_181307_010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]00043A_181254_040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]00207C_101103_005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]00473C_160000_006831.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]00479C_093000_003420.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]00491A_225900_000804.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]00492A_230000_005877.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]00493A_045900_000111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]00827C_124422_001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]01005A_065010_001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]01005A_065011_008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]01006C_065018_036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]01007A_065420_002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]01011C_081015_016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]01024A_091507_006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]01024A_091508_011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]01032A_093440_001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]01032A_093441_010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]01035C_093442_004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]01038A_100612_002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]01065C_120856_003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]01079C_154014_023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]02003C_061537_055.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]02166C_131134_036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]02464A_160234_040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]03056C_120731_004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]04009A_182344_013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]04725C_115000_004257.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/test_image/[SHOULDER]04759C_154900_000471.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YOLO_masking.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/YOLO_masking.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/name_number_convert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/segment/predict/labels/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runs/segment/predict2/labels/test.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2UKCwFAD66s9NJXHqRwBhdBPdnY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Users/AMD/Desktop/2023/KWIX/vlt_car/images&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\AMD\Desktop\2023\KWIX\vlt_car\images" />
+      <recent name="D:\Users\AMD\Desktop\2023\KWIX\vlt_car\test_image" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ES_build_masking_images" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="vlt_car" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\yolov5-master\vlt_car\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.8 (vlt_car)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ES_build_masking_images.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c61c082-5660-4bc7-986c-bc5c0215872f" name="Changes" comment="" />
+      <created>1692679122050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692679122050</updated>
+    </task>
+    <servers />
+  </component>
+</project>
